@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_16947595fb78611d09a57742efe7d3b836937dcb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_7206602481f0cf480dfd44f822c9a0d9fa8bf373/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_11b7b9c04ac150d3df15f242db4366315e2b6a2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4d9ae08cf0c866bed66ed4742f47d2076baf84d1">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91273fc91713d17423be935773980f3c67f9fe99/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_a46cee330065a2cae8cc8680eb3b4c759d66ceb1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_77163a189cf6fd863da34b04d417dfcaa4092724/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9ac67c915f68938841378081babac221ffa973a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2f0886a3008ab16badf3bf94dfd864aca257db8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_dca77d7f08151afcaed8200fe53814f3de33b5ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_db8d6d72e01d09ba87fe01e473cbfbbd26c43191/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_84ccb717b989dbce882f632f3f311591ea8290fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_3172570ab02f1a98a7d29d70012dcff4f269b175/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_fd0e6210094cd861df32be55b217fd03041e98e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_a5c1729dec6c4414cfb895252d432e65cf324c36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/libs/ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ddcd1698b4bc242e26bfd99e3779688ab311b918">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-3.1.1-jar-with-dependencies_af9a2ed821373bf0d9c5a39e5b3bd21bcb9f1b4b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_01937b6489b7fa88c51f10434bfe598b3b42b74f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="304cb5c09174dac5e219aaab46089903d4f75ea8">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/GeoLogistica/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ac8096ee7078683f18f23c72aff13f1d7093c7f/classes.dex" />
+    </item>
+
+</items>
